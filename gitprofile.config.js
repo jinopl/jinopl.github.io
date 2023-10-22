@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'jinopl', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,42 +11,40 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'jinopl',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: 'jino93',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: 'https://jino.pl',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: '',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Devops',
+    'Linux',
+    'Gcp',
+    'AWS',
+    'Pipeline',
     'MySQL',
     'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Kubernetes',
+    'Terraform',
+    'Python',
   ],
   experiences: [
     {
